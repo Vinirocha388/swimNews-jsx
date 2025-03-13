@@ -6,7 +6,7 @@ export default function News() {
         <View style={styles.container}>
             <Text style={styles.title}>Notícias sobre Natação</Text>
             <Image 
-                source={{ uri: 'https://muroazul.com.br/wp-content/uploads/2023/02/Natacao-para-criancas.jpg' }} 
+                source={{ uri: 'https://guiaderodas.com/wp-content/uploads/2021/08/Natacao-para-pessoas-com-deficiencia.jpg' }} 
                 style={styles.image} 
             />
             <Text style={styles.content}>
